@@ -90,27 +90,31 @@ body {
     }    
 }
 
-@media only screen and (max-width:420px) {
+@media only screen and (max-width:430px) {
     .link {
-        padding: 13px 86px;
+        padding: 13px 79px;
     }    
 }
 
 @media only screen and (max-width:400px) {
     .link {
-        padding: 13px 75px;
+        padding: 13px 70px;
     }    
 }
 
 @media only screen and (max-width:379px) {
     .link {
-        padding: 13px 60px;
+        padding: 13px 56px;
     }    
+
+    .specification p{
+        font-size: 13px;
+    }
 }
 
 @media only screen and (max-width:350px) {
     .link {
-        padding: 13px 39px;
+        padding: 13px 31px;
         font-size: 12px;
     }    
 }
